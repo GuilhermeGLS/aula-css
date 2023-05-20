@@ -1,0 +1,23 @@
+/* utilizando estilo dentro de um arquivo css */
+body{
+    /* utilizando background para por uma imagem */
+    
+    /* background-image: url('https://blog.portoseguro.com.br/wordpress/wp-content/uploads/2022/12/praia-paradisiaca-na-bahia-2048x1357.jpg') */
+
+    /* utilizando cores */
+    background-color: black;
+}
+
+/* utilizando atributo class */
+.minha-primeira-class{
+    /* hexadecimal */
+    color: #e810ac;
+
+
+}
+
+/* adicionando id: indentificador unico */
+#meu-primeiro-id{
+    /* rgb colors */
+    color:rgb(98, 190, 71)
+}
